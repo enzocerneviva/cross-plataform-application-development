@@ -1,1 +1,1 @@
-# Projeto React Native - 1 Semestre Cross-Plataform Application Development
+# Projeto React Native - Cross-Plataform Application Development (2° Ano Ciências da Computação)
